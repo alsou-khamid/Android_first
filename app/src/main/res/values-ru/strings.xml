@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "winter"> Погодное приложение</string>>
+    <string name = "_11_30"> 11:30 </string>>
+    <string name="_10c">-10C</string>
+    <string name="_nh">Набережные Челны</string>
+</resources>
